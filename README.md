@@ -1,1 +1,2 @@
 # odin-recipes
+The website will consist of a main index page which will have links to a few recipes. This project is apart of the Odin Project foundations course. I will need html basics and git basics knowledge to complete this.
