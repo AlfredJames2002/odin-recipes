@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.links {
+    color: black;
+    font-size: medium;
+}
+
+h1 {
+    color: maroon;
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h3 {
+    color: red;
+}
+
